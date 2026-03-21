@@ -1,0 +1,38 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "Web開発のすすめ1"
+  text: "Keio Computer Society"
+  tagline: 2026年度 Web班 骨なしチキン
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
+
+features:
+  - title: 1. 開発環境の構築
+    details: WSLやVisual Studio Codeなどの開発環境の構築、CLIの操作に入門します。
+    link: /environment/env.md
+  - title: 2. フロントエンド入門
+    details: HTML/CSS, JavaScriptの書き方を学びます。
+  - title: 3. フロントエンド実践
+    details: Next.jsフレームワークやReactを使って、自分のポートフォリオサイトを作ります。
+  - title: 4. Git/GitHub講習
+    details: チーム開発では欠かせない、GitやGitHubの仕組み・使い方を学びます。
+  - title: 5. バックエンド入門１
+    details: PHPで簡易的なログイン処理を実装しながら、クライアントサーバシステム、サーバの認証の仕組みを学びます。
+    link: /backend_login/login.md
+  - title: 6. バックエンド入門２
+    details: PHPで掲示板を作りながら、DB設計、API設計を学びます。
+    link: /backend_bulletin_board/bulletin_board.md
+  - title: 7. Docker講習
+    details: Web開発においては、仮想化技術Dockerを使用することが多いです。
+    link: /docker/docker.md
+  - title: 8. バックエンド実践
+    details: FastAPIのWebフレームワーク（Python）を使って、掲示板を作ります。
+---
