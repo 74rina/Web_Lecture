@@ -1,0 +1,37 @@
+.bg-home-2 {
+  position: relative;
+}
+
+.bg-home-2::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.4); /* うっすら暗く */
+  z-index: -1;
+}
+
+.bg-home-2 {
+  background-image: url('/img/background1.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-home-2 .VPHomeHero .name,
+.bg-home-2 .VPHomeHero .name .clip {
+  color: #ffffff;
+  -webkit-text-fill-color: #ffffff; /* これが重要 */
+}
+
+.bg-home-2 .VPHomeHero .text,
+.bg-home-2 .VPHomeHero .text .clip {
+  color: #b1bfff;
+  -webkit-text-fill-color: #b1bfff; /* これが重要 */
+}
+
+.bg-home-2 .VPHomeHero .tagline,
+.bg-home-2 .VPHomeHero .tagline .clip {
+  color: #ffffff;
+  -webkit-text-fill-color: #ffffff; /* これが重要 */
+}
+
+

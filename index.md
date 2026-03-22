@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+pageClass: bg-home-2
 
 hero:
   name: "Web開発のすすめ1"
@@ -8,11 +9,11 @@ hero:
   tagline: 2026年度 Web班 骨なしチキン
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 【入門】Web開発のすすめ1
+      link: /
+    - theme: brand
+      text: 【発展】Web開発のすすめ2
+      link: /web2.md
 
 features:
   - title: 1. 開発環境の構築
