@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           { text: '開発環境の構築', link: '/environment/env.md' },
           { text: 'フロントエンド入門', link: '/frontend1/frontend1.md' },
-          { text: 'フロントエンド実践', link: '/api-examples' },
+          { text: 'フロントエンド実践', link: '/frontend2/frontend2.md' },
           { text: 'Git/GitHub講習', link: '/api-examples' },
           { text: 'バックエンド入門1', link: '/backend1/login.md' },
           { text: 'バックエンド入門2', link: '/backend2/bulletin_board.md' },

@@ -20,10 +20,11 @@ features:
     details: WSLやVisual Studio Codeなどの開発環境の構築、CLIの操作に入門します。
     link: /environment/env.md
   - title: 2. フロントエンド入門
-    details: HTML/CSS, JavaScriptの書き方を学びます。
+    details: HTML, CSS, JavaScriptの書き方を学び、「おみくじ」を作ります。
     link: /frontend1/frontend1.md
   - title: 3. フロントエンド実践
     details: Next.jsフレームワークやReactを使って、自分のポートフォリオサイトを作ります。
+    link: /frontend2/frontend2.md
   - title: 4. Git/GitHub講習
     details: チーム開発では欠かせない、GitやGitHubの仕組み・使い方を学びます。
   - title: 5. バックエンド入門１
