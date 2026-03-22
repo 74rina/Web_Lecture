@@ -16,11 +16,11 @@ export default defineConfig({
         text: 'Web開発のすすめ1',
         items: [
           { text: '開発環境の構築', link: '/environment/env.md' },
-          { text: 'フロントエンド入門', link: '/api-examples' },
+          { text: 'フロントエンド入門', link: '/frontend1/frontend1.md' },
           { text: 'フロントエンド実践', link: '/api-examples' },
           { text: 'Git/GitHub講習', link: '/api-examples' },
-          { text: 'バックエンド入門1', link: '/backend_login/login.md' },
-          { text: 'バックエンド入門2', link: '/backend_bulletin_board/bulletin_board.md' },
+          { text: 'バックエンド入門1', link: '/backend1/login.md' },
+          { text: 'バックエンド入門2', link: '/backend2/bulletin_board.md' },
           { text: 'Docker講習', link: '/docker/docker.md' },
           { text: 'バックエンド実践', link: '/api-examples' },
         ]

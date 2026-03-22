@@ -21,16 +21,17 @@ features:
     link: /environment/env.md
   - title: 2. フロントエンド入門
     details: HTML/CSS, JavaScriptの書き方を学びます。
+    link: /frontend1/frontend1.md
   - title: 3. フロントエンド実践
     details: Next.jsフレームワークやReactを使って、自分のポートフォリオサイトを作ります。
   - title: 4. Git/GitHub講習
     details: チーム開発では欠かせない、GitやGitHubの仕組み・使い方を学びます。
   - title: 5. バックエンド入門１
     details: PHPで簡易的なログイン処理を実装しながら、クライアントサーバシステム、サーバの認証の仕組みを学びます。
-    link: /backend_login/login.md
+    link: /backend1/login.md
   - title: 6. バックエンド入門２
     details: PHPで掲示板を作りながら、DB設計、API設計を学びます。
-    link: /backend_bulletin_board/bulletin_board.md
+    link: /backend2/bulletin_board.md
   - title: 7. Docker講習
     details: Web開発においては、仮想化技術Dockerを使用することが多いです。
     link: /docker/docker.md
