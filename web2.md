@@ -19,6 +19,5 @@ hero:
       link: https://x.com/kcs1959
 
 features:
-  - title: 【バックエンド】キャッシュ戦略でサイトを高速化する
-    details: tanstack query を導入する
+  - title: Coming Soon...
 ---
