@@ -12,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Web開発のすすめ1', link: '/' },
       { text: 'Web開発のすすめ2', link: '/web2.md' },
-      { text: 'Xアカウント', link: 'https://x.com/kcs1959' }
+      { text: 'X公式アカウント', link: 'https://x.com/kcs1959' }
     ],
 
     sidebar: [
