@@ -15,7 +15,7 @@ hero:
       text: 【発展】Web開発のすすめ2
       link: /web2.md
     - theme: alt
-      text: X公式アカウント
+      text: X公式アカウント↗︎
       link: https://x.com/kcs1959
 
 features:
