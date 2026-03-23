@@ -2,6 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    ['link', { rel: 'icon', href: '../public/favicon.ico' }]
+  ],
   title: "KCS Web班 講習会",
   description: "A VitePress Site",
   themeConfig: {
