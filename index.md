@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: 【発展】Web開発のすすめ2
       link: /web2.md
+    - theme: alt
+      text: X公式アカウント↗︎
+      link: https://x.com/kcs1959
 
 features:
   - title: 1. 開発環境の構築

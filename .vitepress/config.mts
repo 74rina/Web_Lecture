@@ -5,13 +5,14 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '../public/favicon.ico' }]
   ],
-  title: "KCS Web班 講習会",
+  title: "Web開発のすすめ",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Web開発のすすめ1', link: '/' },
-      { text: 'Web開発のすすめ2', link: '/web2.md' }
+      { text: 'Web開発のすすめ2', link: '/web2.md' },
+      { text: 'Xアカウント', link: 'https://x.com/kcs1959' }
     ],
 
     sidebar: [
