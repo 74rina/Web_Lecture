@@ -33,13 +33,14 @@ features:
     link: /git/git.md
   - title: 5. バックエンド入門１
     details: PHPで簡易的なログイン処理を実装しながら、クライアントサーバシステム、サーバの認証の仕組みを学びます。
-    link: /backend1/login.md
+    link: /backend1/backend1.md
   - title: 6. バックエンド入門２
     details: PHPで掲示板を作りながら、DB設計、API設計を学びます。
-    link: /backend2/bulletin_board.md
+    link: /backend2/backend2.md
   - title: 7. Docker講習
     details: Web開発においては、仮想化技術Dockerを使用することが多いです。
     link: /docker/docker.md
   - title: 8. バックエンド実践
     details: フロントエンド・バックエンドを組み合わせたフルスタック開発で、掲示板を作ります。
+    link: /backend3/backend3.md
 ---
