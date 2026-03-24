@@ -312,21 +312,35 @@ OSによってシェル（コマンドを解釈するプログラム）が異な
 
 ## 5-4. WSL 環境構築手順（Windowsの方向け）
 
-1. コマンドプロンプトを管理者として開く（アプリのアイコンを右クリック）
+1. コマンドプロンプトを**管理者として**開く（アプリのアイコンを右クリック）
 
-2. `$ wsl --install` を実行
+2. wsl のインストール
+
+   ```
+   $ wsl --install
+   ```
 
    ![wsl1](wsl1.png)
 
 3. Windows を再起動
 
-4. コマンドプロンプトを開き、`$ wsl --set-default-version 2` を実行
+4. コマンドプロンプトを開き、以下を実行
 
-5. `$ wsl --install -d Ubuntu` で Ubuntu ユーザの設定
+   ```
+   $ wsl --set-default-version 2
+   ```
+
+5. Ubuntu ユーザの設定
+
+   ```
+   $ wsl --install -d Ubuntu
+   ```
 
    ![wsl2](wsl2.png)
 
-   ※ 設定した ユーザ名 / パスワード を忘れずに！
+   ::: warning
+   設定した ユーザ名 / パスワード を忘れずに！
+   :::
 
 6. 今後は、コマンドプロンプトで `$ wsl` を実行し、Linux 環境で開発を行う。
 
@@ -374,7 +388,9 @@ Node.js（＝JavaScript実行環境）を入れる。JavaScriptの実行には V
 
 1. nvm（Nodeの管理）のインストール
 
-   `$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
+   ```
+   $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   ```
 
 2. シェルの設定ファイル（`~/.bashrc`, `~/.zshrc`）を読み直して反映
 
@@ -384,7 +400,10 @@ Node.js（＝JavaScript実行環境）を入れる。JavaScriptの実行には V
 
    または、ターミナルの再起動
 
-3. Node.js のインストール `$ nvm install --lts`
+3. Node.js のインストール
+   ```
+   $ nvm install --lts
+   ```
 
 ---
 
