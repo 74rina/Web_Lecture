@@ -33,11 +33,13 @@ Webブラウザ上で動作する HTML, CSS, JavaScript は、Webサイトの技
 
 2.  **CSS**（Cascading Style Sheets）
 
-    2-1. HTMLにCSSを読み込む
+    2-1. 使用例
 
-    2-2. CSSの雛形
+    2-2. 実装
 
-    2-3. CSSのC（Cascade）とは
+    2-3. CSSプロパティまとめ
+
+    2-4. CSSのC（Cascade）とは
 
 3.  **JavaScript**
 
@@ -198,7 +200,26 @@ ex.) Googleにアクセスする時：ブラウザ ↔︎ Googleのサーバ
 
 HTMLにデザインをつけるための言語。HTML要素の色や文字サイズ、余白、レイアウト、アニメーションなどを設定できる。
 
-## 2-1. HTMLにCSSを読み込む
+## 2-1. 使用例
+
+以下のHTML要素にデザインを加えることを考える。
+
+```html
+<div class="greet">こんにちは</div>
+```
+
+次のようにCSSを定義することで、スタイルを当てることができる。
+
+```css
+.greet {
+  background: white;
+  padding: 20px;
+}
+```
+
+とすることでデザインを追加できる。
+
+## 2-2. 実装
 
 先ほどのHTMLの`<head>`内に、以下を追加し、ページのレンダリング前にCSSを読み込ませる。
 
@@ -211,9 +232,7 @@ HTMLにデザインをつけるための言語。HTML要素の色や文字サイ
 </head>
 ```
 
-## 2-2. CSSファイルの雛形
-
-以下のように`style.css`を作成する。
+これに対し、以下のように`style.css`を作成する。
 
 ```css
 body {
@@ -226,7 +245,9 @@ body {
 
 ![css](css.png)
 
-## 2-3. CSSのC（Cascade）とは
+## 2-3. CSSプロパティまとめ（暗記不要）
+
+## 2-4. CSSのC（Cascade）とは
 
 階段状に連なる小さな滝のこと。ITにおいては、「上から順に影響していく」的な意味。
 
@@ -246,8 +267,6 @@ p {
 ## 3. JavaScript
 
 Webページに「動き」をつける言語。今回は、おみくじを引くボタンを実装する。
-
-### 完成形
 
 ![omikuji](omikuji_test.gif)
 
