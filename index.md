@@ -40,5 +40,5 @@ features:
     details: Web開発においては、仮想化技術Dockerを使用することが多いです。
     link: /docker/docker.md
   - title: 8. バックエンド実践
-    details: FastAPIのWebフレームワーク（Python）を使って、より本格的な掲示板を作ります。
+    details: フロントエンド・バックエンドを組み合わせたフルスタック開発で、掲示板を作ります。
 ---
