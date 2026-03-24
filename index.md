@@ -30,6 +30,7 @@ features:
     link: /frontend2/frontend2.md
   - title: 4. Git/GitHub講習
     details: チーム開発では欠かせない、Git/GitHubの仕組み・使い方を学びます。
+    link: /git/git.md
   - title: 5. バックエンド入門１
     details: PHPで簡易的なログイン処理を実装しながら、クライアントサーバシステム、サーバの認証の仕組みを学びます。
     link: /backend1/login.md
