@@ -1,17 +1,11 @@
 ---
 marp: true
-header: "フロントエンド入門"
+header: "Git / GitHub 講習"
 footer: "2026 KCS Web班"
 paginate: true
 ---
 
-# フロントエンド入門 - おみくじを作る
-
-Webブラウザ上で動作する HTML, CSS, JavaScript は、Webサイトの技術の基本です。
-
-今回は、簡単なおみくじアプリを作りながら、書き方の基本を学びます。
-
-詳しい文法は、[MDN(MDN Web Docs)](https://developer.mozilla.org/ja/) を適宜参照してください。
+# Git / GitHub 講習
 
 ---
 
