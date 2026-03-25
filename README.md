@@ -1,21 +1,19 @@
-# 参考リポジトリ
+# Web開発のすすめ
 
-- 【フロントエンド入門】おみくじを作る（HTML, CSS, JavaScript）
+### KCS Web班　骨なしチキン
 
-  https://github.com/74rina/omikuji.git
+KCS :: Keio Computer Society は、慶應義塾大学で唯一、そして日本最古のコンピュータサークルです。「パソコン使って全部やる」をモットーに、Web・AI・System（低レイヤー）・競プロ・ゲーム・音楽・CG の７班に分かれて活動しています。
 
-- 【フロントエンド実践】ポートフォリオを作る（Next.js / React）
+本記事は、2026年度 Web班の講習会資料です。Web開発（フロントエンド＋バックエンド）の基礎知識を体系的にまとめました。
 
-  https://github.com/74rina/Portfolio.git
+## 参考リポジトリ
 
-- 【バックエンド入門1】ログイン機能を作る（PHP）
+- 【フロントエンド入門】[おみくじを作る](https://github.com/74rina/omikuji.git)（HTML, CSS, JavaScript）
 
-  https://github.com/74rina/Login.git
+- 【フロントエンド実践】[ポートフォリオを作る](https://github.com/74rina/Portfolio.git)（Next.js / React）
 
-- 【バックエンド入門2】掲示板を作る（PHP）
+- 【バックエンド入門1】[ログイン機能を作る](https://github.com/74rina/Login.git)（PHP）
 
-  https://github.com/74rina/Bulletin_Board.git
+- 【バックエンド入門2】[掲示板を作る](https://github.com/74rina/Bulletin_Board.git)（PHP）
 
-- 【バックエンド実践】掲示板を作る（React + FastAPI）
-
-  https://github.com/74rina/bulletin_board_2
+- 【バックエンド実践】[掲示板を作る](https://github.com/74rina/bulletin_board_2)（React + FastAPI）
