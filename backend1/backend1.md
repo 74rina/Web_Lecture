@@ -13,6 +13,8 @@ paginate: true
 
 今回は、ログイン処理の仕組みを理解することを目的とし、PHPで簡易的なログイン機能を実装します。
 
+詳しい文法は、[PHP References](https://www.php.net/manual/ja/langref.php) を適宜参照してください。
+
 ---
 
 # 目次

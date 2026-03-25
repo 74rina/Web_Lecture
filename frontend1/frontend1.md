@@ -521,7 +521,87 @@ document.getElementById("xxx");
 
 JSは標準で`document`オブジェクトを用意しており、このメソッドでHTML内の要素を操作できる。
 
-## 3-3. JSの文法（暗記不要）
+## 3-3. JSの文法
+
+- 変数の定義
+
+  ```js
+  let name = "太郎"; // 再代入可能
+  const age = 20; // 再代入不可（これを使う）
+  ```
+
+- 出力
+
+  ```js
+  console.log("Hello");
+  ```
+
+- オブジェクト（クラス）のプロパティにアクセスする
+
+  ```js
+  const user = {
+    name: "xxx",
+    age: 20,
+  };
+  // アクセス
+  user.name;
+  user["name"];
+  ```
+
+- 配列
+
+  ```js
+  const users = ["a", "b", "c"];
+  users[0]; // "a"
+  ```
+
+- ループ処理
+
+  ```js
+  for (const value of users) {
+    console.log(value);
+  }
+
+  // インデックスも取る
+  users.forEach((value, index) => {
+    console.log(index, value);
+  });
+  ```
+
+- 条件分岐
+
+  ```js
+  if (条件) {
+    // true のとき
+  } else {
+    // false のとき
+  }
+
+  // 次のように、三項演算子で書いても良い。
+  条件 ? trueのとき : falseのとき;
+  ```
+
+  ex.)
+
+  ```js
+  score >= 60 ? "pass" : "fail";
+  ```
+
+- 関数の定義
+
+  ```js
+  function add(a, b) {
+    return a + b;
+  }
+
+  // アロー関数（Web開発でよく見る書き方）
+  const add = (a, b) => {
+    return a + b;
+  };
+
+  // 短縮して書ける
+  const add = (a, b) => a + b;
+  ```
 
 ---
 
