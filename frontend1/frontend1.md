@@ -7,6 +7,8 @@ paginate: true
 
 # フロントエンド入門 - おみくじを作る
 
+[参考リポジトリ](https://github.com/74rina/omikuji)
+
 Webブラウザ上で動作する HTML, CSS, JavaScript は、Webサイトの技術の基本です。
 
 今回は、簡単なおみくじアプリを作りながら、書き方の基本を学びます。
