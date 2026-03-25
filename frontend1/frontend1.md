@@ -426,10 +426,6 @@ Web開発の基本である HTML, CSS, JavaScript の書き方を学びました
 
 ## 参考文献
 
-- MDN「Math.random()」
+- MDN [Math.random()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 
-  https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-
-- Zenn「何度調べてもわからないDOMに決着をつける」
-
-  https://zenn.dev/antez/articles/b6eb22cb228a49
+- Zenn [何度調べてもわからないDOMに決着をつける](https://zenn.dev/antez/articles/b6eb22cb228a49)

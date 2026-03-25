@@ -294,4 +294,4 @@ func main() {
 
 # 参考文献
 
-Zenn「Goroutine の使い方」https://zenn.dev/nobonobo/articles/53b1539ae1dd09
+Zenn [Goroutine の使い方](https://zenn.dev/nobonobo/articles/53b1539ae1dd09)

@@ -600,6 +600,4 @@ faviconとは、ブラウザのタブのアイコンのこと。
 
 ## 参考文献
 
-- Zenn「Next.jsの考え方」
-
-  https://zenn.dev/akfm/books/nextjs-basic-principle/viewer/part_1
+- Zenn [Next.jsの考え方](https://zenn.dev/akfm/books/nextjs-basic-principle/viewer/part_1)

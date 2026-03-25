@@ -679,6 +679,4 @@ Web開発時も、自分で作成したAPIエンドポイントに対して、cu
 
 ## 参考文献
 
-- Zenn「【API】"RESTの原則"をアンチパターンを基に噛み砕いてみました」
-
-  https://zenn.dev/kazu_u/articles/dab4e3ec7a19bd
+- Zenn [【API】"RESTの原則"をアンチパターンを基に噛み砕いてみました](https://zenn.dev/kazu_u/articles/dab4e3ec7a19bd)
