@@ -13,15 +13,9 @@ paginate: true
 
 ---
 
----
-
-## 1. HTML（HyperText Markup Language）
-
-## 1-1. 環境構築
+Coming Soon...
 
 ---
-
-## お疲れさまでした！
 
 ## 参考文献
 

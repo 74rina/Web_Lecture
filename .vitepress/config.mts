@@ -39,6 +39,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/74rina/Web_Lecture' }
-    ]
+    ],
+
+    docFooter: {
+      prev: false,
+      next: false
+    }
   }
 })
