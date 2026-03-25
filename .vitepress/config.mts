@@ -22,7 +22,7 @@ export default defineConfig({
           { text: '1. 開発環境の構築', link: '/environment/env.md' },
           { text: '2. フロントエンド入門', link: '/frontend1/frontend1.md' },
           { text: '3. フロントエンド実践', link: '/frontend2/frontend2.md' },
-          { text: '4. Git/GitHub講習', link: '/git/git.md' },
+          { text: '4. Git/GitHub講習', link: '/comingsoon/comingsoon.md' },
           { text: '5. バックエンド入門1', link: '/backend1/backend1.md' },
           { text: '6. バックエンド入門2', link: '/backend2/backend2.md' },
           { text: '7. Docker講習', link: '/docker/docker.md' },
@@ -32,7 +32,7 @@ export default defineConfig({
       {
         text: 'Web開発のすすめ2',
         items: [
-          { text: '【バックエンド】キャッシュ戦略で高速化する', link: '/environment/env.md' },
+          { text: '【バックエンド】キャッシュ戦略で高速化する', link: '/comingsoon/comingsoon.md' },
         ]
       }
     ],
