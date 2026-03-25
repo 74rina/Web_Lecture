@@ -15,6 +15,8 @@ paginate: true
 
 詳しい文法は、[React References](https://ja.react.dev/reference/react) を適宜参照してください。
 
+![demo](demo.gif)
+
 ---
 
 # 目次
