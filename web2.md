@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: 【入門】Web開発のすすめ1
-      link: /index.md
+      link: /index
     - theme: brand
       text: 【発展】Web開発のすすめ2
-      link: /web2.md
+      link: /web2
     - theme: alt
       text: X公式アカウント↗︎
       link: https://x.com/kcs1959
