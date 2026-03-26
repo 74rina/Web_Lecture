@@ -20,7 +20,7 @@ hero:
 
 features:
   - title: 1. 開発環境の構築
-    details: WSLやVisual Studio Codeなどの開発環境の構築、CLIの操作に入門します。
+    details: Visual Studio Code や WSL などの開発環境構築、CLIの操作に入門します。
     link: /environment/env.md
   - title: 2. フロントエンド入門
     details: HTML, CSS, JavaScriptの書き方を学び、「おみくじ」を作ります。
@@ -38,9 +38,9 @@ features:
     details: PHPで掲示板を作りながら、DB設計、API設計を学びます。
     link: /backend2/backend2.md
   - title: 7. Docker講習
-    details: Web開発においては、仮想化技術Dockerを使用することが多いです。
+    details: Web開発の際、仮想化技術Dockerを使用することが多いです。
     link: /docker/docker.md
   - title: 8. バックエンド実践
-    details: フロントエンド・バックエンドを組み合わせたフルスタック開発で、掲示板を作ります。
+    details: フロントエンド・バックエンドを組み合わせたフルスタック開発で、掲示板サイトを開発します。
     link: /backend3/backend3.md
 ---
