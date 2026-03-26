@@ -103,7 +103,9 @@ paginate: true
   - 静的ファイルの配信が高速
   - HTTPS処理、負荷分散
 
-### WebサーバとAPサーバを繋ぐ規格（プロトコル）
+::: tip
+
+**WebサーバとAPサーバを繋ぐ規格**（プロトコル）
 
 1. CGI（Common Gateway Interface）
 
@@ -111,7 +113,7 @@ paginate: true
 
 2. FastCGI
 
-   サーバ常駐型。**PHP-FPM**で用いられる。
+   サーバ常駐型。PHP-FPMで用いられる。
 
 3. WSGI（Web Server Gateway Interface）
 
@@ -120,6 +122,8 @@ paginate: true
 4. ASGI（Asynchronous Server Gateway Interface）
 
    WSGIの進化版で、非同期処理・WebSocketに対応。FastAPIで用いられる。
+
+:::
 
 ### 代表的なAPサーバ
 
