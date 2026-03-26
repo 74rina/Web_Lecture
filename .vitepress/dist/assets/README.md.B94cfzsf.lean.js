@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,ae as i}from"./chunks/framework.C4hbK2lm.js";const _=JSON.parse('{"title":"Web開発のすすめ","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),o={name:"README.md"};function l(n,e,s,h,p,b){return t(),r("div",null,[...e[0]||(e[0]=[i("",6)])])}const d=a(o,[["render",l]]);export{_ as __pageData,d as default};
